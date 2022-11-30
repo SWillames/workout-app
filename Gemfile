@@ -11,8 +11,8 @@ gem "turbo-rails"
 gem "stimulus-rails"
 gem "jbuilder"
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
-
 gem "bootsnap", require: false
+gem "devise"
 
 
 
